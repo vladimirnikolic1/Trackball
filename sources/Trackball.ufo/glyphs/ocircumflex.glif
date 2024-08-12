@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="2">
+  <advance width="570"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <contour>
+      <point x="361" y="188" type="line"/>
+      <point x="361" y="488" type="line"/>
+      <point x="211" y="488" type="line"/>
+      <point x="211" y="188" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="0" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="23" y="676" type="line"/>
+      <point x="549" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="942" type="line"/>
+      <point x="495" y="818" type="line"/>
+      <point x="442" y="733" type="line"/>
+      <point x="279" y="794" type="line"/>
+      <point x="117" y="733" type="line"/>
+      <point x="64" y="818" type="line"/>
+    </contour>
+  </outline>
+</glyph>
