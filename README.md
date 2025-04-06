@@ -14,6 +14,10 @@ Trackball has the following axe:
 
 ![Image](documentation/image2.png)
 
+![Image](documents/image1.png)
+
+![Image](documents/image2.png)
+
 ## Image License
 The images in this repository are licensed under the CC https://creativecommons.org/licenses/by-sa/4.0/
 
